@@ -81,6 +81,9 @@ h2 {
 li {
 	margin: 6px 0px 0px -20px;
 }
+.wrap {
+	padding-bottom: 90px;
+}
 .clear {
 	clear: both;
 }
