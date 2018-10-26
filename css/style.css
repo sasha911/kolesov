@@ -52,9 +52,6 @@ a {
 	padding: 24px 0px;
 	margin: -13px auto;
 }
-.center {
-	height: 400px;
-}
 .text1 {
 	width: 600px;
 	float: left;
@@ -83,6 +80,9 @@ h2 {
 }
 li {
 	margin: 6px 0px 0px -20px;
+}
+.clear {
+	clear: both;
 }
 .blue-line {
 	background: #023875;
